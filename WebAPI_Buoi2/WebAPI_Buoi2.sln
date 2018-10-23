@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolWFApp", "SchoolWFApp\SchoolWFApp.csproj", "{DA46DB45-97D5-4B5F-8FFE-7C864CE9B66D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_Learning1", "WebAPI_Learning1\WebAPI_Learning1.csproj", "{5EA8C3A5-689C-4502-A18F-4933DFFBD082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA46DB45-97D5-4B5F-8FFE-7C864CE9B66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA46DB45-97D5-4B5F-8FFE-7C864CE9B66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA46DB45-97D5-4B5F-8FFE-7C864CE9B66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA46DB45-97D5-4B5F-8FFE-7C864CE9B66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA8C3A5-689C-4502-A18F-4933DFFBD082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA8C3A5-689C-4502-A18F-4933DFFBD082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA8C3A5-689C-4502-A18F-4933DFFBD082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA8C3A5-689C-4502-A18F-4933DFFBD082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB14B4EB-B364-4E3D-8301-D55CF0351D07}
+	EndGlobalSection
+EndGlobal
